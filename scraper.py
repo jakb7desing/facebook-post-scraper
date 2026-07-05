@@ -374,6 +374,6 @@ if __name__ == "__main__":
 
     else:
         for post in postBigDict:
-            print(post)
+            print("\n")
 
     print("Finished")
